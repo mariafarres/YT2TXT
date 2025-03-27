@@ -1,191 +1,191 @@
-#ARTIST:TAYLOR SWIFT
-#TITLE:THE MAN
+#ARTIST:Taylor Swift
+#TITLE:The Man
 #LANGUAGE:en
-#GENRE:POP
+#GENRE:Pop
 #YEAR:2020
-#CREATOR:VIRTUAL SONGS HUB
-#MP3:TAYLOR SWIFT - THE MAN.mp3
+#CREATOR:Virtual Songs Hub
+#MP3:Taylor Swift - The Man.mp3
 #COVER:
 #BPM:18
 #GAP:1366
-: 0 1 6 ♪ I 
-: 1 1 14 WOULD BE 
-: 2 1 12 COM
-: 3 1 19 PLEX ♪
-: 1 1 5 ♪ I 
-: 2 1 6 WOULD BE 
-: 3 1 10 COOL ♪
-: 1 1 7 ♪ THEY'D SAY I 
-: 2 1 6 PLAYED
-: 2 1 11 ♪ I 
-: 3 1 9 FOUND 
-: 4 1 17 SOMEONE
-: 3 1 13 ♪ AND THAT
-: 3 1 17 ♪ 
-: 4 1 8 FOR ME TO 
-: 5 1 11 DO ♪
-: 4 1 14 ♪ EVERY 
-: 5 1 7 CON
-: 6 1 17 QUEST
-: 5 1 5 ♪ 
-: 6 1 6 WOULD 
-: 7 1 19 MAKE ME 
+: 0 1 9 ♪ I 
+: 1 1 15 WOULD BE 
+: 2 1 11 COM
+: 3 1 12 PLEX ♪
+: 1 1 12 ♪ I 
+: 2 1 15 WOULD BE 
+: 3 1 5 COOL ♪
+: 1 1 11 ♪ THEY'D SAY I 
+: 2 1 13 PLAYED
+: 2 1 15 ♪ I 
+: 3 1 16 FOUND 
+: 4 1 14 SOMEONE
+: 3 1 19 ♪ AND THAT
+: 3 1 18 ♪ 
+: 4 1 6 FOR ME TO 
+: 5 1 19 DO ♪
+: 4 1 8 ♪ EVERY 
+: 5 1 6 CON
+: 6 1 19 QUEST
+: 5 1 17 ♪ 
+: 6 1 18 WOULD 
+: 7 1 18 MAKE ME 
 : 8 1 6 MORE
-: 6 1 18 ♪ I'D BE A FEAR
-: 7 1 9 LESS LEAD
-: 8 1 17 ER
-: 9 1 16  ♪
-: 7 1 13 ♪ I'D BE AN AL
-: 8 1 9 PHA 
-: 9 1 11 TYPE ♪
-: 7 1 14 ♪ WHEN EVERY
-: 8 1 8 ONE
-: 8 1 13 ♪ WHAT'S THAT 
-: 9 1 8 LIKE? ♪
-: 8 1 13 ♪ I'M SO SICK
-: 9 1 6  OF RUN
-: 10 1 16 NING ♪
-: 9 1 15 ♪ AS 
-: 10 1 16 FAST AS I CAN ♪
-: 10 1 8 ♪ 
-: 11 1 12 WON
-: 12 1 19 DER
-: 13 1 11 ING I
-: 14 1 16 F I'D
-: 10 1 18 ♪ I
-: 11 1 9 F I WAS A 
-: 12 1 11 MAN ♪
-: 11 1 9 ♪ AND I'M SO SICK
-: 12 1 19  OF THEM ♪
-: 12 1 9 ♪ 
-: 13 1 19 COM
-: 14 1 11 ING AT ME A
-: 15 1 14 GAIN ♪
-: 12 1 15 ♪ '
-: 13 1 18 CAUSE I
-: 14 1 10 F I WAS A 
-: 15 1 15 MAN ♪
-: 13 1 6 ♪ THEN I'D BE THE 
-: 14 1 12 MAN ♪
-: 14 1 11 ♪ I'D BE THE 
-: 15 1 11 MAN ♪
-: 15 1 10 ♪ I'D BE THE 
-: 16 1 5 MAN ♪
-: 17 1 8 ♪ THEY'D SAY I HUSTLED ♪
-: 17 1 9 ♪ PUT IN THE 
-: 18 1 8 WORK ♪
-: 18 1 12 ♪ THEY 
-: 19 1 16 WOULD
+: 6 1 17 ♪ I'D BE A FEAR
+: 7 1 5 LESS LEAD
+: 8 1 8 ER
+: 9 1 18  ♪
+: 7 1 8 ♪ I'D BE AN AL
+: 8 1 14 PHA 
+: 9 1 19 TYPE ♪
+: 7 1 17 ♪ WHEN EVERY
+: 8 1 19 ONE
+: 8 1 9 ♪ WHAT'S THAT 
+: 9 1 7 LIKE? ♪
+: 8 1 12 ♪ I'M SO SICK
+: 9 1 7  OF RUN
+: 10 1 10 NING ♪
+: 9 1 10 ♪ AS 
+: 10 1 6 FAST AS I CAN ♪
+: 10 1 14 ♪ 
+: 11 1 7 WON
+: 12 1 17 DER
+: 13 1 10 ING I
+: 14 1 19 F I'D
+: 10 1 6 ♪ I
+: 11 1 7 F I WAS A 
+: 12 1 5 MAN ♪
+: 11 1 6 ♪ AND I'M SO SICK
+: 12 1 12  OF THEM ♪
+: 12 1 11 ♪ 
+: 13 1 14 COM
+: 14 1 6 ING AT ME A
+: 15 1 9 GAIN ♪
+: 12 1 14 ♪ '
+: 13 1 14 CAUSE I
+: 14 1 7 F I WAS A 
+: 15 1 7 MAN ♪
+: 13 1 18 ♪ THEN I'D BE THE 
+: 14 1 7 MAN ♪
+: 14 1 14 ♪ I'D BE THE 
+: 15 1 19 MAN ♪
+: 15 1 15 ♪ I'D BE THE 
+: 16 1 15 MAN ♪
+: 17 1 6 ♪ THEY'D SAY I HUSTLED ♪
+: 17 1 8 ♪ PUT IN THE 
+: 18 1 12 WORK ♪
+: 18 1 8 ♪ THEY 
+: 19 1 17 WOULD
 : 20 1 7 N'T
-: 19 1 18 ♪ AND QUES
-: 20 1 17 TION HOW
-: 19 2 5 ♪ WHAT I WAS WEAR
-: 20 2 15 ING,
-: 21 1 12 ♪ 
-: 22 1 15 COULD ALL BE SEP
-: 23 1 15 AR
-: 24 1 13 ATED 
-: 25 1 19 FROM
-: 23 1 15 ♪ AND WE 
-: 24 1 7 WOULD
-: 23 1 15 ♪ 
-: 24 1 17 LET THE 
-: 25 1 16 PLAY
-: 26 1 10 ER
-: 27 1 15 S 
-: 28 1 18 PLAY ♪
-: 24 1 15 ♪ I'D BE JUST 
-: 25 1 13 LIKE LEO,
-: 25 1 9 ♪ I'M SO SICK
-: 26 1 16  OF RUN
-: 27 1 15 NING ♪
-: 26 1 8 ♪ AS 
-: 27 1 8 FAST AS I CAN ♪
-: 27 1 15 ♪ 
-: 28 1 5 WON
-: 29 1 8 DER
-: 30 1 11 ING I
-: 31 1 9 F I'D
-: 27 1 15 ♪ I
-: 28 1 9 F I WAS A 
-: 29 1 9 MAN ♪
-: 28 1 5 ♪ AND I'M SO SICK
-: 29 1 18  OF THEM ♪
-: 29 1 19 ♪ 
-: 30 1 13 COM
-: 31 1 5 ING AT ME A
-: 32 1 8 GAIN ♪
-: 29 1 15 ♪ '
-: 30 1 14 CAUSE I
-: 31 1 10 F I WAS A 
-: 32 1 12 MAN ♪
-: 30 1 10 ♪ THEN I'D BE THE 
+: 19 1 13 ♪ AND QUES
+: 20 1 16 TION HOW
+: 19 2 7 ♪ WHAT I WAS WEAR
+: 20 2 14 ING,
+: 21 1 10 ♪ 
+: 22 1 8 COULD ALL BE SEP
+: 23 1 19 AR
+: 24 1 18 ATED 
+: 25 1 14 FROM
+: 23 1 10 ♪ AND WE 
+: 24 1 9 WOULD
+: 23 1 6 ♪ 
+: 24 1 16 LET THE 
+: 25 1 19 PLAY
+: 26 1 17 ER
+: 27 1 9 S 
+: 28 1 6 PLAY ♪
+: 24 1 16 ♪ I'D BE JUST 
+: 25 1 14 LIKE LEO,
+: 25 1 17 ♪ I'M SO SICK
+: 26 1 19  OF RUN
+: 27 1 9 NING ♪
+: 26 1 17 ♪ AS 
+: 27 1 17 FAST AS I CAN ♪
+: 27 1 11 ♪ 
+: 28 1 13 WON
+: 29 1 13 DER
+: 30 1 14 ING I
+: 31 1 18 F I'D
+: 27 1 9 ♪ I
+: 28 1 19 F I WAS A 
+: 29 1 17 MAN ♪
+: 28 1 11 ♪ AND I'M SO SICK
+: 29 1 17  OF THEM ♪
+: 29 1 16 ♪ 
+: 30 1 16 COM
+: 31 1 9 ING AT ME A
+: 32 1 6 GAIN ♪
+: 29 1 16 ♪ '
+: 30 1 5 CAUSE I
+: 31 1 5 F I WAS A 
+: 32 1 9 MAN ♪
+: 30 1 14 ♪ THEN I'D BE THE 
 : 31 1 13 MAN ♪
 : 31 1 12 ♪ I'D BE THE 
-: 32 1 15 MAN ♪
+: 32 1 12 MAN ♪
 - 0
-: 32 1 12 ♪ I'D BE THE 
-: 33 1 5 MAN, YEAH ♪
-: 33 1 9 ♪ WHAT'S IT 
-: 34 1 16 LIKE TO BRAG
-: 34 1 8 ♪ AND 
-: 35 1 10 GET
+: 32 1 11 ♪ I'D BE THE 
+: 33 1 10 MAN, YEAH ♪
+: 33 1 10 ♪ WHAT'S IT 
+: 34 1 18 LIKE TO BRAG
+: 34 1 19 ♪ AND 
+: 35 1 7 GET
 : 36 1 13 TING
-: 35 1 6 ♪ AND IT'S ALL 
-: 36 1 10 GOOD
-: 36 1 16 ♪ AND IT'S OKAY I
-: 37 1 11 F Y
-: 38 1 11 OU'RE MAD ♪
-: 36 1 12 ♪ I
-: 37 1 14 F I WAS OUT
-: 37 1 10 ♪ I'D BE A BITCH,
-: 38 1 7 ♪ THEY'D PAINT ME
+: 35 1 19 ♪ AND IT'S ALL 
+: 36 1 14 GOOD
+: 36 1 14 ♪ AND IT'S OKAY I
+: 37 1 13 F Y
+: 38 1 8 OU'RE MAD ♪
+: 36 1 14 ♪ I
+: 37 1 19 F I WAS OUT
+: 37 1 13 ♪ I'D BE A BITCH,
+: 38 1 12 ♪ THEY'D PAINT ME
 : 39 1 16 ♪ SO IT'S OKAY THAT I'M MAD ♪
-: 40 9 8 (AUDI
-: 41 9 6 ENCE 
+: 40 9 10 (AUDI
+: 41 9 15 ENCE 
 : 42 9 5 CHEER
 : 43 9 16 S)
-: 49 1 11 ♪ I'M SO SICK
-: 50 1 5  OF RUN
-: 51 1 17 NING ♪
-: 49 1 5 ♪ AS 
-: 50 1 19 FAST AS I CAN ♪
-: 50 1 14 ♪ 
-: 51 1 15 WON
-: 52 1 14 DER
-: 53 1 8 ING I
+: 49 1 17 ♪ I'M SO SICK
+: 50 1 18  OF RUN
+: 51 1 7 NING ♪
+: 49 1 13 ♪ AS 
+: 50 1 7 FAST AS I CAN ♪
+: 50 1 17 ♪ 
+: 51 1 8 WON
+: 52 1 19 DER
+: 53 1 19 ING I
 : 54 1 12 F I'D
-: 51 1 11 ♪ I
-: 52 1 17 F I WAS A 
-: 53 1 15 MAN
-: 51 1 18 ♪ I'M SO SICK
+: 51 1 7 ♪ I
+: 52 1 8 F I WAS A 
+: 53 1 16 MAN
+: 51 1 13 ♪ I'M SO SICK
 : 52 1 8  OF THEM ♪
-: 52 1 19 ♪ 
-: 53 1 12 COM
-: 54 1 5 ING AT ME A
-: 55 1 17 GAIN ♪
-: 53 1 16 ♪ '
-: 54 1 6 CAUSE I
-: 55 1 7 F I WAS A 
-: 56 1 18 MAN ♪
-: 54 1 17 ♪ THEN I'D BE THE 
+: 52 1 17 ♪ 
+: 53 1 16 COM
+: 54 1 18 ING AT ME A
+: 55 1 19 GAIN ♪
+: 53 1 19 ♪ '
+: 54 1 11 CAUSE I
+: 55 1 18 F I WAS A 
+: 56 1 19 MAN ♪
+: 54 1 11 ♪ THEN I'D BE THE 
 : 55 1 18 MAN ♪
-: 54 1 6 ♪ I'D BE THE 
-: 55 1 18 MAN, YEAH ♪
-: 55 1 7 ♪ YEAH, I'D BE
-: 57 1 19 ♪ WELL, I'D BE THE 
-: 58 1 15 MAN ♪
-: 58 1 14 ♪ I'D BE THE 
-: 59 1 6 MAN ♪
-: 59 2 10 ♪ ♪
-: 61 1 11 ♪ I
-: 62 1 14 F I WAS A 
-: 63 1 16 MAN (HEY!) ♪
-: 62 1 19 ♪ THEN I'D BE THE 
-: 63 1 16 MAN ♪
+: 54 1 9 ♪ I'D BE THE 
+: 55 1 12 MAN, YEAH ♪
+: 55 1 13 ♪ YEAH, I'D BE
+: 57 1 17 ♪ WELL, I'D BE THE 
+: 58 1 7 MAN ♪
+: 58 1 19 ♪ I'D BE THE 
+: 59 1 8 MAN ♪
+: 59 2 9 ♪ ♪
+: 61 1 5 ♪ I
+: 62 1 19 F I WAS A 
+: 63 1 13 MAN (HEY!) ♪
+: 62 1 16 ♪ THEN I'D BE THE 
+: 63 1 5 MAN ♪
 - 0
-: 63 2 18 (AUDI
-: 64 2 7 ENCE 
-: 65 2 9 CHEER
-: 66 2 18 S)
+: 63 2 12 (AUDI
+: 64 2 13 ENCE 
+: 65 2 18 CHEER
+: 66 2 17 S)
 E
